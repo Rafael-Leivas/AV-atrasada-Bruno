@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(44, 44, 44);
+    color: #fff;
+    margin: auto;
+    padding: auto;
+}
+
+    #titulo{
+        color: rgb(255, 42, 131);
+        text-align: center  ;
+    }
+
+.a{
+    left: 4em;
+}
+
+.link{
+    color: #fff;
+    text-decoration: none;
+}
